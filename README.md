@@ -1,6 +1,8 @@
 # Discrete Math homework on graph theory
 Software for solving some tasks from homework 5
 
+All comments to code are in the Solver.h library
+
 Build instruction:
 
 1.Make sure that a C++ compiler is installed on your computer.
